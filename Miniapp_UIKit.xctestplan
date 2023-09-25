@@ -1,0 +1,29 @@
+{
+  "configurations" : [
+    {
+      "id" : "29A2FCAC-F61D-4116-A49E-6553B62433B0",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:Miniapp_UIKit.xcodeproj",
+      "identifier" : "B12B3FF12A935B2D000FE920",
+      "name" : "Miniapp_UIKit"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:Miniapp_UIKit.xcodeproj",
+        "identifier" : "B12A4ECB2ABC24590034216F",
+        "name" : "Miniapp_UIKitTests"
+      }
+    }
+  ],
+  "version" : 1
+}
